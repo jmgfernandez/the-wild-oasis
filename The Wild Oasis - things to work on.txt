@@ -1,0 +1,11 @@
+The Wild Oasis - things to work on:
+
+> edit cabin form still displaying old values even after edit
+> cabin row changing order upon edit
+> context menu scrolling with scrollbar
+> sort by dropdown border-bottom cutoff
+
+To try:
+> adding breakfast to someone who has already checked in?
+
+
